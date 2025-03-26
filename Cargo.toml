@@ -1,0 +1,10 @@
+[package]
+name = "CityZen"
+authors = ["Denis Klintukhov <denis.klintukhov@gmail.com>"]
+license = "GNU General Public License v3.0"
+license-file = "LICENSE"
+homepage = "https://github.com/DKlintukhov/CityZen"
+repository = "https://github.com/DKlintukhov/CityZen"
+readme = "README.md"
+version = "0.1.0"
+edition = "2024"
